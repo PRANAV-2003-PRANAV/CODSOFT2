@@ -1,4 +1,4 @@
-# About my First Project on CODSOFT
+# About my Second Project on CODSOFT
 # Email Template for E-commerce Dress Website
 
 A simple, responsive email template designed for e-commerce dress websites. Perfect for promotional emails, order confirmations, and newsletters.
